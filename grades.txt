@@ -1,0 +1,18 @@
+File Organization and Processing
+midterm,30,75
+homework,15,92
+--
+Introduction to Machine Learning
+midterm,15,52
+homework,40,63.75
+--
+Engineering Economics
+midterm,40,75
+--
+Entrepreneurship
+midterm,40,84
+--
+Formal Languages and Automata
+midterm,25,55
+quiz,25,97
+--
