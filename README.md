@@ -11,6 +11,7 @@ All universities have their own grading system. Some of them are using the Lette
 At the last of the semester, students get one of these letters for their\`s average for each lesson.
 
 **What is this project for?**
+
 This project helps students to calculate their letters of lessons for their averages.
 
 **How to use it?**
