@@ -17,7 +17,8 @@ This project helps students to calculate their letters of lessons for their aver
 ```
 git clone https://github.com/ParvinEyvazov/what-should-I-get-in-final-exam.git
 ```
-- Create or modify input file that called \`grades.txt\`
+- Create or modify input file that called \`grades.txt\`.
+
 The text file has its own format. 1 subject has to be written according to like this:
 ```
 <Subject name 1>
