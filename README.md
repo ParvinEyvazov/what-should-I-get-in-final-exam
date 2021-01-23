@@ -70,3 +70,5 @@ For DD --> 27.11 and more (lower than 35 rule)
 For FD --> 2.67 and more (lower than 35 rule)
 ```
 Output file shows that what student has to get in the final exam for according letter grades.
+
+> **Note**: lower than 35 rule is a rule of the university that if students get lower than 35 in the final exam, they automatically fail in the semester for this lesson.
